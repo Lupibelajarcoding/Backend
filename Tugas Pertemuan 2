@@ -1,0 +1,17 @@
+# Gambar 1
+total_belanja = int(input("Masukkan Total Belanja Anda = "))
+
+if total_belanja > 100000:
+    print("Selamat, Anda dapat hadiah!")
+else :
+    print("Terimakasih sudah berbelanja")
+
+# Gambar 2
+password = input("Masukkan Password Anda = ")
+
+if password == "Lupi":
+    print("Selamat datang bos!")
+else:
+    print("Password salah, coba lagi")
+
+print("Terimakasih sudah menggunakan aplikasi kami")
